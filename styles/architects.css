@@ -13,6 +13,7 @@
 .display-flex{
   display: flex;
 }
+
 /* text-primary-color */
 .text-primary{
   color: #FF900E;
@@ -46,7 +47,10 @@ main{
 main> section {
   margin-top: 130px;
 }
-
+.section-title {
+  font-size: 2.8rem;
+  font-weight: 600;
+}
 /* header styles */
 /* navbar styles */
 .brand{
@@ -100,10 +104,7 @@ margin-right: 30px;
   margin-left: 73px;
 
 }
-.feature-title{
-  font-size: 2.8rem;
-  font-weight: 600;
-}
+
 #quick-list{
 font-weight: 500;
 }
