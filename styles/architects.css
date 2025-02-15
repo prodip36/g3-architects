@@ -211,6 +211,18 @@ main>section {
 .sponsor-companies img {
   filter: grayscale(100%);
 }
+/* footer content */
+.rights-reserved {
+max-width: 1440px;
+
+  margin: 0 auto;
+  max-height: 100px;
+}
+.rights-description{
+
+text-align: center;
+
+}
 
 /* responsive media query */
 @media screen and (max-width: 576px) {
